@@ -11,4 +11,6 @@
 | 7     | Rotate Image                    |   Array    | **MEDIUM** | https://leetcode.com/problems/rotate-image/ |
 | 8     | Merge Intervals                 |   Array    | **MEDIUM** | https://leetcode.com/problems/merge-intervals/ |
 | 9     | Merge Sorted Array              |   Array    |  **EASY**  | https://leetcode.com/problems/merge-sorted-array/ |
+| 10    | Find the Duplicate Number       |   Array    | **MEDIUM** | https://leetcode.com/problems/find-the-duplicate-number/ |
+| 11    | Find Missing And Repeating      |   Array    | **MEDIUM** | https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1# |
 
