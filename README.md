@@ -13,4 +13,8 @@
 | 9     | Merge Sorted Array              |   Array    |  **EASY**  | https://leetcode.com/problems/merge-sorted-array/ |
 | 10    | Find the Duplicate Number       |   Array    | **MEDIUM** | https://leetcode.com/problems/find-the-duplicate-number/ |
 | 11    | Find Missing And Repeating      |   Array    | **MEDIUM** | https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1# |
+| 12    | Count Inversions                |   Array    | **MEDIUM** | https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1# |
+| 13    | Search a 2D Matrix              |   Array    | **MEDIUM** | https://leetcode.com/problems/search-a-2d-matrix/ |
+| 14    | Pow(x, n)                       |   Array    | **MEDIUM** | https://leetcode.com/problems/powx-n/    |
+| 15    | Majority Element                |   Array    |  **EASY**  | https://leetcode.com/problems/majority-element/ |
 
