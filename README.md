@@ -17,4 +17,5 @@
 | 13    | Search a 2D Matrix              |   Array    | **MEDIUM** | https://leetcode.com/problems/search-a-2d-matrix/ |
 | 14    | Pow(x, n)                       |   Array    | **MEDIUM** | https://leetcode.com/problems/powx-n/    |
 | 15    | Majority Element                |   Array    |  **EASY**  | https://leetcode.com/problems/majority-element/ |
-
+| 16    | Majority Element II             |   Array    | **MEDIUM** | https://leetcode.com/problems/majority-element-ii/ |
+| 17    | Unique Paths                    |   Array    | **MEDIUM** | https://leetcode.com/problems/unique-paths/ |
